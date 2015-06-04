@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListViewEx</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tSuperman">Superman</string>
+    <string name="tSuperClar">Clark Kent</string>
+    <string name="tSuperyear">1938</string>
+</resources>
